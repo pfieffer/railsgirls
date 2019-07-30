@@ -13,6 +13,8 @@ gem 'net-ssh'
 gem 'carrierwave'
 # Resizing images on the server.
 gem 'mini_magick', '4.8.0'
+# For Authentication
+gem 'devise'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
