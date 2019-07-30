@@ -12,7 +12,7 @@ gem 'net-ssh'
 # Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks https://github.com/carrierwaveuploade…
 gem 'carrierwave'
 # Resizing images on the server.
-gem 'mini_magick', '4.8.0'
+gem 'mini_magick', '4.9.4'
 # For Authentication
 gem 'devise'
 # Use Puma as the app server
